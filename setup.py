@@ -17,5 +17,5 @@ setuptools.setup(
     # },
     # license='MIT',
     py_modules=['tts_helper'],
-    install_requires=['gtts', 'pydub', 'elevenlabs'],
+    install_requires=['gtts', 'pydub', 'elevenlabs', 'elevenlabslib'],
 )
